@@ -44,10 +44,7 @@
 	],
 	"repositories":
 	[
-		"git://github.com/wuub/SublimePTY.git",
-		"git@github.com:wuub/SublimePTY.git",
 		"https://github.com/wuub/SublimePTY",
-		"https://github.com/a-sk/sublime-build-on-save",
 		"https://github.com/alexnj/SublimeOnSaveBuild"
 	]
 }
