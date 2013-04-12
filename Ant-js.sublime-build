@@ -1,0 +1,10 @@
+{
+	"cmd": ["ant"],
+	"working_dir": "${project}",
+	"selector": "build.xml",
+
+	"windows":
+	{
+		"cmd": ["ant.bat"]
+	}
+}

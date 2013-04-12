@@ -1,0 +1,53 @@
+{
+	"installed_packages":
+	[
+		"Abacus",
+		"Additional PHP Snippets",
+		"ApacheConf.tmLanguage",
+		"Autocomplete Javascript with Method Signature",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Snippets",
+		"Csslisible",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"JavaScript Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JS Snippets",
+		"LESS",
+		"LESS-build",
+		"nginx",
+		"Origami",
+		"Package Control",
+		"QuickThemes",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Solarized Color Scheme",
+		"SortTabs",
+		"sublime-csspecific",
+		"Sublime-JSHint",
+		"SublimeBlockCursor",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeOnSaveBuild",
+		"SublimePTY",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"TidyHTML5",
+		"Whitespaces"
+	],
+	"repositories":
+	[
+		"git://github.com/wuub/SublimePTY.git",
+		"git@github.com:wuub/SublimePTY.git",
+		"https://github.com/wuub/SublimePTY",
+		"https://github.com/a-sk/sublime-build-on-save",
+		"https://github.com/alexnj/SublimeOnSaveBuild"
+	]
+}
