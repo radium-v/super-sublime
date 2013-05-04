@@ -22,7 +22,7 @@ Installation
     `mv super-sublime/* . && rm !#^:h`
 
 4.  Open Sublime (there may be errors). Open the Console (ctrl+\`) to view the
-    output, trigger the Command Palette, and select
+    output. Trigger the Command Palette, and select
     `Package Control: Upgrade/Overwrite All Packages`.
 
 5.  If there are any errors or if Sublime crashes, just quit Sublime and redo
